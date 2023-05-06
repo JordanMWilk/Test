@@ -3,7 +3,7 @@ title = "I'm Jordan Wilk"
 author = "Jordan Wilk"
 #copyright = "2020-2021"
 description = "Call me Jordan"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/test.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -61,22 +61,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/jordanwilk/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/JordanMWilk/"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/jordann_wilk/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:jordanmwilk@gmail.com"
 
 [mermaid]
 # enable = true
